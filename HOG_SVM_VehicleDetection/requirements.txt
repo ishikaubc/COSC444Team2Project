@@ -1,0 +1,11 @@
+numpy
+scipy
+opencv-python
+glob2
+scikit-learn
+scikit-image
+matplotlib
+moviepy==1.0.3
+ipython
+pickle-mixin
+
